@@ -1,4 +1,3 @@
-# CovidEX2-Front-master
 # CovidEX2-Front
 # Getting Started with Create React App
 
