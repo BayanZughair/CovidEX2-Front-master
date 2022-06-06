@@ -1,0 +1,12 @@
+.row{
+    background-color:lightblue;
+}
+.t {
+    background-color:lightblue;
+}
+td, th {
+    border: 0.5px solid #ddd;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-inline-color: darkblue;
+    border-block-color: darkblue;
+}
